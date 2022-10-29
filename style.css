@@ -1,0 +1,12 @@
+#btn{
+	height: 50px;
+	width: 100px;
+	font-size: 20px;
+	border-radius: 7px;
+	background-color: blue;
+	color: white;
+}
+#btn:hover{
+	background-color: green;
+	color: white;
+}
